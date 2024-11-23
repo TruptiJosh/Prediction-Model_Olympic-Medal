@@ -1,4 +1,4 @@
-# Prediction-Model_Olympic-Medal
+# Olympic Medal Data Analysis using Python, pandas, matplotlib, scikit-learn (sklearn), seaborn.
 ### Objective:
  Analyzed Olympic medal data using athlete event datasets from 1896 to 2016, applying various machine learning models to predict medal outcomes.
 
